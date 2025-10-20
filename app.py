@@ -9,3 +9,9 @@ with col1:
 
 with col2:
     st.header("CampusX is an Indian ed-tech company founded by Nitish Singh that offers online courses and mentorship programs in data science and machine learning. The company provides free educational content on its YouTube channel, with more in-depth, paid programs available on its website.")    
+st.header("Course")
+st.subheader("DSMP")
+st.subheader("DAMP")
+st.subheader("DEMP")
+
+
